@@ -14,7 +14,7 @@ export class LanderComponent implements OnInit {
 
     var options = {
       //strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
-      strings: ['','Java', 'Angular','Wen'],
+      strings: ['','Java Full Stack', 'Angular','Web'],
       typeSpeed: 120,
       backSpeed: 100,
       loop: true
