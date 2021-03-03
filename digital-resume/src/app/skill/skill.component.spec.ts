@@ -23,3 +23,11 @@ describe('SkillComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
+
+
+
+//ng build --prod --base-href "https://Phani-Devarapu.github.io/digital-resume/"
+
+
+//npx angular-cli-ghpages — dir=dist/digital-resume  -- command for deployment
